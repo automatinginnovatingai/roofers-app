@@ -1,6 +1,6 @@
 Roofers App – User Guide
 ====================================
-Version: 1.0.0
+Version: 1.1.0
 Build Date: 2025-09-08
 
 Welcome to the Automating Innovating AI Roofers App — a streamlined, secure, and intuitive tool
