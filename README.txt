@@ -154,16 +154,16 @@ System Requirements
 • Monthly Excel files generated automatically  
 
 
-====================================
-License Activation
-====================================
-This app requires a valid Gumroad license key.
+============================================================
+LICENSE ACTIVATION
+============================================================
+A valid Stripe subscription is required to use this application.
 
-• You will be prompted to enter your license key on first launch  
-• The app verifies your key securely via Gumroad’s API  
-• Invalid or revoked licenses restrict access  
-
-Note: Internet access is required for initial license validation.  
+• On first launch, the app checks your subscription status securely through Stripe.
+• If your subscription is active, the app unlocks full access.
+• If your subscription is canceled, expired, or unpaid, access is restricted.
+• Internet is required only during subscription verification and plan changes.
+• All billing and upgrades are handled through Stripe’s secure checkout.
 
 
 ====================================
